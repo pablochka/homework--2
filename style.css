@@ -25,10 +25,23 @@ p {
 }
 .skillsClass {
   background-color: pink;
+  margin-top: 20px;
 }
 .skillsClass ul {
   padding-left: 40px;
 }
 span {
   background-color: yellow;
+}
+.experienceClass {
+  margin-top: 20px;
+  background-color: pink;
+}
+.aboutmeClass {
+  margin-top: 20px;
+  background-color: pink;
+}
+.aboutmeClass ul li span {
+  color: blue;
+  background-color: pink;
 }
